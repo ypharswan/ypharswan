@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yogesh  and I'm a Full Stack Developer, from Hills</p>
+<p align="left">My name is Yogesh  and I'm a Full Stack Developer.</p>
 
 ###
 
